@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31ef8399.chunk.css",
+    "main.js": "/static/js/main.6879a07e.chunk.js",
+    "main.js.map": "/static/js/main.6879a07e.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.ef75cd9e.js",
+    "runtime~main.js.map": "/static/js/runtime~main.ef75cd9e.js.map",
+    "static/css/2.266e55a5.chunk.css": "/static/css/2.266e55a5.chunk.css",
+    "static/js/2.8e14d437.chunk.js": "/static/js/2.8e14d437.chunk.js",
+    "static/js/2.8e14d437.chunk.js.map": "/static/js/2.8e14d437.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.13c887e3b9c687a4422b3c908db5c877.js": "/precache-manifest.13c887e3b9c687a4422b3c908db5c877.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.31ef8399.chunk.css.map": "/static/css/main.31ef8399.chunk.css.map",
+    "static/media/Bell.png": "/static/media/Bell.0e29c746.png",
+    "static/media/Mail.png": "/static/media/Mail.953c8396.png",
+    "static/media/Message.png": "/static/media/Message.db35f50b.png",
+    "static/media/ShoppingCart.png": "/static/media/ShoppingCart.3f5764a2.png",
+    "static/media/Whatsapp.png": "/static/media/Whatsapp.82743ba4.png",
+    "static/media/course-image-1.jpg": "/static/media/course-image-1.c42c0c1e.jpg",
+    "static/media/course-image-2.jpg": "/static/media/course-image-2.f1cdf7dd.jpg"
+  }
+}
